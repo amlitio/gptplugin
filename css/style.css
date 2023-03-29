@@ -1,1 +1,6 @@
-
+/* Add your plugin styles here */
+#output {
+	margin-top: 20px;
+	padding: 10px;
+	border: 1px solid #10ff8f;
+}
